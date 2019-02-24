@@ -3,4 +3,5 @@
 ## todolist
 
 - 抓取电影信息
-- 演员和导演编剧信息如何获得？
+- [https://stackoverflow.com/questions/1966503/does-imdb-provide-an-api](IMDB api)
+- (open movie API)[https://www.omdbapi.com/]
